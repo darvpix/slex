@@ -1,27 +1,17 @@
 Slex
 
-Slex is a simple tool designed to help you code C++ in Termux.
+Slex is a simple tool I made to make coding C++ in Termux easier.
 
-How it works
+What it does
 
-Slex provides a simple way to work with C++ source files directly from Termux. It can:
+With Slex you can:
 
 - Create C++ files
-- Open existing ".cpp" files
-- Compile C++ programs using "clang++"
-- Run compiled programs
-- Delete C++ files
+- Open ".cpp" files
+- Compile your code
+- Run your programs
+- Delete files
 
-Slex is designed to make the basic C++ workflow in Termux simpler and easier to use.
+It basically makes the usual C++ stuff in Termux a little easier instead of having to type everything manually.
 
-Requirements
-
-- Termux
-
-Installation
-
-The installer automatically checks for the required programs and installs missing dependencies.
-
-Usage
-
-Run Slex from Termux and choose the desired option from the menu.
+I made it because I wanted something simple to use while coding C++ on my phone.
